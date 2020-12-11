@@ -1,0 +1,2 @@
+numpy==1.18.1
+opencv_contrib_python_headless==4.4.0.46
