@@ -64,7 +64,6 @@ pt8 =  [w, down_limit];
 pts_L4 = np.array([pt7,pt8], np.int32)
 pts_L4 = pts_L4.reshape((-1,1,2))
 
-#Substractor de fondo
 fgbg = cv.createBackgroundSubtractorMOG2(detectShadows = True)
 
 #Structuring the algorithms 
