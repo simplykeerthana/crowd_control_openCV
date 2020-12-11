@@ -13,7 +13,6 @@ Now you can run the program using "python Crowd_People_Counter.py". When you run
 
 Note: if you want to try with other videos, change this line cap = cv.VideoCapture('crowd.mp4') to the video file of your interest in "Crowd_People_Counter.py".
 
-Screenshots of working code:
 
 
 <img width="1288" alt="Screen Shot 2020-12-10 at 10 47 41 PM" src="https://user-images.githubusercontent.com/34112414/101861043-2aada900-3b3d-11eb-8d20-98832ca62bba.png">
